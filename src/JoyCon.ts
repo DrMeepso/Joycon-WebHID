@@ -139,8 +139,8 @@ export class Joycon extends EventTarget {
         //document.getElementById('CurrentData')!.innerText += `\nStick Horizontal: ${stick_horizontal}\nStick Vertical: ${stick_vertical}`;
 
         return {
-            stick_horizontal,
-            stick_vertical
+            x: stick_horizontal,
+            y: stick_vertical
         }
     }
 

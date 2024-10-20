@@ -9,3 +9,6 @@ Refrences used to understand the Joy-Con HID protocol:
 - [Switchbrew.com](https://switchbrew.org/wiki/Joy-Con#HidCommand) 📚
 
 Enjoy using your Joy-Con with WebHID! 🎮✨
+
+> [!IMPORTANT] 
+> This project uses the `WebHID` API which is currently only available in chromium based browsers. (Chrome, Edge, etc.)
