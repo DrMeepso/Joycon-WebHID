@@ -12,7 +12,7 @@ Button.addEventListener('click', async () => {
 
         filters: [
             {
-                vendorId: 1406,
+                vendorId: 1406, // this is the vendor ID for Nintendo!
             }
         ]
 
