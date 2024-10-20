@@ -1,5 +1,3 @@
-import { get } from "http";
-
 const Button = document.getElementById('connect');
 const Out = document.getElementById('CurrentData');
 
